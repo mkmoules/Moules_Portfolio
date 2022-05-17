@@ -1,41 +1,38 @@
 # Moules_Portfolio
-Data Science Portfolio
 <!-- wp:buttons {"align":"wide","layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons alignwide"></div>
-<!-- /wp:buttons -->
-
-<!-- wp:image {"align":"center","id":75,"width":154,"height":206,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":["#000000","#ffffff"]}},"className":"is-style-rounded"} -->
-<figure class="wp-block-image aligncenter size-large is-resized is-style-rounded"><img src="https://moulesdesign.files.wordpress.com/2022/02/8c26eca0-09e2-42a9-8e72-f514c05f0ab1-7f7c408a-9bb1-416d-a6e0-c36274f29bf3-2.jpg?w=766" alt="" class="wp-image-75" width="154" height="206"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"48px"}}} -->
-<h1 class="has-text-align-center" id="alex-fredrickson" style="font-size:48px"><strong>McKenzie Moules</strong></h1>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"18px","lineHeight":"1.65"}}} -->
-<p class="has-text-align-center" style="font-size:18px;line-height:1.65">My latest and greatest creations...<br>So much goodness all in one place!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:social-links {"className":"is-style-default","layout":{"type":"flex","justifyContent":"center"}} -->
-<ul class="wp-block-social-links is-style-default"><!-- wp:social-link {"url":"https://linkedin.com/in/mckenziemoules","service":"linkedin"} /-->
-
-<!-- wp:social-link {"url":"https://instagram.com/kenzimoules","service":"instagram"} /--></ul>
-<!-- /wp:social-links -->
-
-<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"width":100,"className":"is-style-fill"} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill"><a class="wp-block-button__link" href="https://moulesdesign.wordpress.com/resume/">Resume</a></div>
+<div class="wp-block-buttons alignwide"><!-- wp:button {"style":{"color":{"text":"#e06d5e"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-text-color" href="https://docs.google.com/file/d/16-ELEnGfhBW2i_0kVcdWtxID9DN4atLh/edit?usp=docslist_api&amp;filetype=mspresentation" style="color:#e06d5e">Research Grant Proposal Presentation</a></div>
 <!-- /wp:button -->
 
-<!-- wp:button {"width":100,"className":"is-style-fill"} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill"><a class="wp-block-button__link" href="https://moulesdesign.wordpress.com/instructional-design-portfolio/">Instructional Design</a></div>
-<!-- /wp:button -->
-
-<!-- wp:button {"width":100,"className":"is-style-fill"} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill"><a class="wp-block-button__link" href="https://moulesdesign.wordpress.com/data-analytics/">Data Analytics</a></div>
-<!-- /wp:button -->
-
-<!-- wp:button {"width":100,"className":"is-style-fill"} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill"><a class="wp-block-button__link" href="https://moulesdesign.wordpress.com/digital-art-portfolio/">Digital Art</a></div>
+<!-- wp:button {"style":{"color":{"text":"#e06d5e"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-text-color" href="https://docs.google.com/presentation/d/17YRY7yo9_qfv3vyEUy0GkXdQSK3jhcRgwx4idC9jSZ0/edit" style="color:#e06d5e" rel="">All About Plants Interactive Lesson</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"background"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-background-color has-text-color" href="https://rise.articulate.com/share/rGicmRAjczwBTxw7gEvVHFWesoecJLUF" target="_blank" rel="noreferrer noopener">Articulate 360 Course: Customer Service Fundamentals</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.canva.com/design/DAE8qcA99Mc/14aRtbohpMP5ONAfY6bnAQ/watch?utm_content=DAE8qcA99Mc&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink" target="_blank" rel="noreferrer noopener">Professional Development for Teachers with Camtasia</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:image {"id":67,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://www.canva.com/design/DAE5YCYU8V8/6iodls7Z8TOZe1wDilrPXQ/view?utm_content=DAE5YCYU8V8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=publishsharelink"><img src="https://moulesdesign.files.wordpress.com/2022/02/img_0171-2.jpg?w=1024" alt="" class="wp-image-67"/></a><figcaption>Professional development created for teachers in district </figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:video {"guid":"g9L0w8Z0","id":45,"videoPressTracks":[],"videoPressClassNames":"wp-block-embed is-type-video is-provider-videopress"} -->
+<figure class="wp-block-video wp-block-embed is-type-video is-provider-videopress"><div class="wp-block-embed__wrapper">
+https://videopress.com/v/g9L0w8Z0?resizeToParent=true&amp;cover=true&amp;preloadContent=metadata&amp;useAverageColor=true
+</div><figcaption>Social media story with tips for employers to create a happy workplace</figcaption></figure>
+<!-- /wp:video -->
+
+<!-- wp:video {"guid":"yiTuUbfn","id":86,"videoPressTracks":[],"videoPressClassNames":"wp-block-embed is-type-video is-provider-videopress"} -->
+<figure class="wp-block-video wp-block-embed is-type-video is-provider-videopress"><div class="wp-block-embed__wrapper">
+https://videopress.com/v/yiTuUbfn?resizeToParent=true&amp;cover=true&amp;preloadContent=metadata&amp;useAverageColor=true
+</div><figcaption>Instagram Ad for campus event</figcaption></figure>
+<!-- /wp:video -->
